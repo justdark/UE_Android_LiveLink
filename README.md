@@ -18,7 +18,7 @@ JSONLiveLink](https://github.com/ue4plugins/JSONLiveLink )
 ### 3.install the `facemoji.D.apk` on your android phone,make sure your phone and computer are in same network.
 
 
-### 4.start app the fill the computer's ip and port.click confirm.
+### 4.start app and fill the computer's `ip` and `port`. click `confirm`.
 
 
 ### 5.open live link windows to add JSONLiveLink source,you will see the 'android' subject
