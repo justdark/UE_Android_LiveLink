@@ -17,12 +17,12 @@ JSONLiveLink](https://github.com/ue4plugins/JSONLiveLink )
 
 
 ### 3.install the `facemoji.D.apk` on your android phone,make sure your phone and computer are in same network.
-![](https://github.com/justdark/UE_Android_LiveLink/blob/main/img/livelink.PNG?raw=true)
 
 ### 4.start app and fill the computer's `ip` and `port`. click `confirm`.
 ![](https://github.com/justdark/UE_Android_LiveLink/blob/main/img/app.png?raw=true)
 
 ### 5.open live link windows to add JSONLiveLink source,you will see the 'android' subject
+![](https://github.com/justdark/UE_Android_LiveLink/blob/main/img/livelink.PNG?raw=true)
 
 
 ### 6.use live link face mocap just like the iphone version.
