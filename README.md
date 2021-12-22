@@ -15,7 +15,7 @@ JSONLiveLink](https://github.com/ue4plugins/JSONLiveLink )
 ### 2.open the project,unreal will rebuild the plugin if not compatible.
 
 
-### 3.install the apk on your android phone,make sure your phone and computer are in same network.
+### 3.install the `facemoji.D.apk` on your android phone,make sure your phone and computer are in same network.
 
 
 ### 4.start app the fill the computer's ip and port.click confirm.
