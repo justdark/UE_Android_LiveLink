@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JSONLiveLink.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\UE5\Unreal_mobile\Intermediate\Build\Win64\MetaAvatarEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"H:\UE5\Unreal_mobile\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Module.JSONLiveLink.cpp.obj"
+"H:\UE5\Unreal_mobile\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Module.JSONLiveLink.gen.cpp.obj"
+"H:\UE5\Unreal_mobile\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\Default.rc2.res"
+/OUT:"H:\UE5\Unreal_mobile\Plugins\JSONLiveLink\Intermediate\Build\Win64\UE4Editor\Development\JSONLiveLink\UE4Editor-JSONLiveLink.lib"
+/INCLUDE:IMPLEMENT_MODULE_JSONLiveLink

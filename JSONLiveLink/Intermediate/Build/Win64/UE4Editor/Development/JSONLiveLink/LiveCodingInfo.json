@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.JSONLiveLink.cpp.obj": [
+			"JSONLiveLink.cpp.obj",
+			"JSONLiveLinkSource.cpp.obj",
+			"JSONLiveLinkSourceFactory.cpp.obj",
+			"SJSONLiveLinkSourceFactory.cpp.obj"
+		],
+		"Module.JSONLiveLink.gen.cpp.obj": [
+			"JSONLiveLink.init.gen.cpp.obj",
+			"JSONLiveLinkSourceFactory.gen.cpp.obj"
+		]
+	}
+}
