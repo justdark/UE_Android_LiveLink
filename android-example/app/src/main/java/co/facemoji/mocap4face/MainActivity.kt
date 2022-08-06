@@ -106,12 +106,9 @@ class MainActivity : AppCompatActivity() {
         val euler = rotation.toEuler()
         val halfPi = Math.PI.toFloat() * 0.5f
         return mapOf(
-            "headLeft" to max(0f, euler.y) / halfPi,
-            "headRight" to -min(0f, euler.y) / halfPi,
-            "headUp" to -min(0f, euler.x) / halfPi,
-            "headDown" to max(0f, euler.x) / halfPi,
-            "headRollLeft" to -min(0f, euler.z) / halfPi,
-            "headRollRight" to max(0f, euler.z) / halfPi,
+            "headYaw" to euler.x,
+            "HeadPitch" to euler.y,
+            "HeadRoll" to euler.z,
         )
     }
 
