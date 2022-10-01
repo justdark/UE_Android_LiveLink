@@ -3,7 +3,7 @@ an android alternative implementation for unreal face live link
 ## Install
 Follow this tutorial: 
 
-![](https://youtu.be/yAkfwIiuHco)
+https://youtu.be/yAkfwIiuHco
 
 ### 1.copy the `JSONLiveLink` into your project's Plugin Folder
 
