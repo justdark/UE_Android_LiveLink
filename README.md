@@ -1,13 +1,9 @@
 # UE Android Face Live Link
 an android alternative implementation for unreal face live link
-
-the android app demo is modify from [facemoji/mocap4face](https://github.com/facemoji/mocap4face )
-
-the live link plugin is modify from [ue4plugins
-/
-JSONLiveLink](https://github.com/ue4plugins/JSONLiveLink )
-
 ## Install
+Follow this tutorial: 
+
+![](https://youtu.be/yAkfwIiuHco)
 
 ### 1.copy the `JSONLiveLink` into your project's Plugin Folder
 
