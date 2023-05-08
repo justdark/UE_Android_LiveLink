@@ -18,7 +18,7 @@
     {
       "Name": "JSONLiveLink",
       "Type": "Runtime",
-      "LoadingPhase": "Default"
+      "LoadingPhase": "Default",
 	"PlatformAllowList": [
 				"Win64",
 		]
