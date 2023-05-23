@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
+	"Version": 2,
+	"VersionName": "2.0",
 	"FriendlyName": "JSONLiveLink",
 	"Description": "LiveLink Source for receiving JSON over sockets",
 	"Category": "Animation",
@@ -10,6 +10,7 @@
 	"DocsURL": "https://docs.unrealengine.com/en-US/Engine/Animation/LiveLinkPlugin/index.html",
 	"MarketplaceURL": "",
 	"SupportURL": "",
+	"EngineVersion": "5.1.0",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"Installed": false,
@@ -17,7 +18,10 @@
     {
       "Name": "JSONLiveLink",
       "Type": "Runtime",
-      "LoadingPhase": "Default"
+      "LoadingPhase": "Default",
+	"PlatformAllowList": [
+				"Win64",
+		]
     }
   ]
 }
